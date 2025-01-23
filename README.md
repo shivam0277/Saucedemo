@@ -2,18 +2,25 @@
 Assignment for QA intern
 
 
-Selenium Automation Project
+# Selenium Automation Project
+
 Overview
+
 This project automates various tasks on the SauceDemo website using Selenium WebDriver. The tasks include login validation, adding and removing items from the cart, completing the checkout workflow, and logging out.
 
 Prerequisites
+
 Node.jsand npm installed
+
 Google Chrome installed
+
 ChromeDriver installed and added to your system's PATH
 
 Setup
 Clone the repository or download the project files.
+
 Navigate to the project directory in your terminal.
+
 Install the required npm packages:
 
 bash
