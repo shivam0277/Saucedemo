@@ -29,29 +29,41 @@ npm install selenium-webdriver
 
 
 ### bash
-node task1.js
+
+node Task1.js
+
+Login Validation 
+
+### bash 
+
+node Task2.js
 
 Add Items to Cart from Inventory Page: Adds items to the cart and verifies the cart count.
 
 ### bash
-node task2.js
+
+node Task3.js
 
 Add Items to Cart from Product Page: Adds an item to the cart from the product details page and verifies the cart count.
 
 ### bash
-node task3.js
+
+node Task4.js
+
 Remove Items from Cart: Removes an item from the cart based on price range and verifies the cart count.
 
 ### bash
-node task4.js
+
+node Task5.js
+
 Checkout Workflow: Completes the checkout process, verifies items and total amount, and ensures a successful purchase.
 
 ### bash
-node task5.js
+
+node Task6.js
+
 Logout Functionality: Automates the logout process and verifies redirection to the login page.
 
-### bash
-node task6.js
 
 ## Assumptions and Observations
 ### Assumptions:
