@@ -4,7 +4,7 @@ Assignment for QA intern
 
 # Selenium Automation Project
 
-Overview
+## Overview
 
 This project automates various tasks on the SauceDemo website using Selenium WebDriver. The tasks include login validation, adding and removing items from the cart, completing the checkout workflow, and logging out.
 
