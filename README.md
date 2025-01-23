@@ -30,10 +30,12 @@ npm install selenium-webdriver
 
 ### bash
 node task1.js
+
 Add Items to Cart from Inventory Page: Adds items to the cart and verifies the cart count.
 
 ### bash
 node task2.js
+
 Add Items to Cart from Product Page: Adds an item to the cart from the product details page and verifies the cart count.
 
 ### bash
