@@ -16,7 +16,7 @@ Google Chrome installed
 
 ChromeDriver installed and added to your system's PATH
 
-##Setup
+## Setup
 
 Clone the repository or download the project files.
 
